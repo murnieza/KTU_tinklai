@@ -1,0 +1,74 @@
+Installing Apache HTTP 2.0 server with
+ DomainName =    init.lt
+ ServerName =    PC.init.lt
+ ServerAdmin =   admin@init.lt
+ ServerPort =    80
+ ServerSslPort = 80
+ ServerRoot =    C:/studies/C/Apache
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-autoindex.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-autoindex.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-autoindex.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-vhosts.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-vhosts.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-vhosts.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-default.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-default.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-default.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-manual.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-manual.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-manual.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-mpm.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-mpm.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-mpm.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-info.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-info.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-info.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-dav.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-dav.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-dav.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-languages.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-languages.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-languages.conf.in
+Rewrote C:/studies/C/Apache/conf/original/httpd.conf.in
+ to C:/studies/C/Apache/conf/original/httpd.conf
+Successfully removed C:\studies\C\Apache\conf\original\httpd.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-userdir.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-userdir.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-userdir.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-ssl.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-ssl.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-ssl.conf.in
+Rewrote C:/studies/C/Apache/conf/original/extra/httpd-multilang-errordoc.conf.in
+ to C:/studies/C/Apache/conf/original/extra/httpd-multilang-errordoc.conf
+Successfully removed C:\studies\C\Apache\conf\original\extra\httpd-multilang-errordoc.conf.in
+Duplicated C:/studies/C/Apache/conf/original/magic
+ to C:/studies/C/Apache/conf/magic
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-autoindex.conf
+ to C:/studies/C/Apache/conf/extra/httpd-autoindex.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-vhosts.conf
+ to C:/studies/C/Apache/conf/extra/httpd-vhosts.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-default.conf
+ to C:/studies/C/Apache/conf/extra/httpd-default.conf
+Duplicated C:/studies/C/Apache/conf/original/mime.types
+ to C:/studies/C/Apache/conf/mime.types
+Duplicated C:/studies/C/Apache/conf/original/charset.conv
+ to C:/studies/C/Apache/conf/charset.conv
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-manual.conf
+ to C:/studies/C/Apache/conf/extra/httpd-manual.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-mpm.conf
+ to C:/studies/C/Apache/conf/extra/httpd-mpm.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-info.conf
+ to C:/studies/C/Apache/conf/extra/httpd-info.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-dav.conf
+ to C:/studies/C/Apache/conf/extra/httpd-dav.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-languages.conf
+ to C:/studies/C/Apache/conf/extra/httpd-languages.conf
+Duplicated C:/studies/C/Apache/conf/original/httpd.conf
+ to C:/studies/C/Apache/conf/httpd.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-userdir.conf
+ to C:/studies/C/Apache/conf/extra/httpd-userdir.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-ssl.conf
+ to C:/studies/C/Apache/conf/extra/httpd-ssl.conf
+Duplicated C:/studies/C/Apache/conf/original/extra/httpd-multilang-errordoc.conf
+ to C:/studies/C/Apache/conf/extra/httpd-multilang-errordoc.conf
+Successfully removed C:\studies\C\Apache\conf\original\installwinconf.awk

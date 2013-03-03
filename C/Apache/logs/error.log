@@ -1,0 +1,21 @@
+[Sun Mar 03 15:50:39 2013] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Mar 03 15:50:39 2013] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Mar 03 15:50:39 2013] [notice] Parent: Created child process 7912
+[Sun Mar 03 15:50:39 2013] [notice] Child 7912: Child process is running
+[Sun Mar 03 15:50:39 2013] [notice] Child 7912: Acquired the start mutex.
+[Sun Mar 03 15:50:39 2013] [notice] Child 7912: Starting 64 worker threads.
+[Sun Mar 03 15:50:39 2013] [notice] Child 7912: Starting thread to listen on port 80.
+[Sun Mar 03 15:51:14 2013] [error] [client 127.0.0.1] File does not exist: C:/studies/C/Apache/htdocs/favicon.ico
+[Sun Mar 03 15:53:55 2013] [error] [client 127.0.0.1] File does not exist: C:/studies/C/Apache/htdocs/favicon.ico
+[Sun Mar 03 15:55:43 2013] [notice] Parent: Received restart signal -- Restarting the server.
+[Sun Mar 03 15:55:43 2013] [notice] Child 7912: Exit event signaled. Child process is ending.
+[Sun Mar 03 15:55:43 2013] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Mar 03 15:55:43 2013] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Mar 03 15:55:43 2013] [notice] Parent: Created child process 4940
+[Sun Mar 03 15:55:44 2013] [notice] Child 4940: Child process is running
+[Sun Mar 03 15:55:44 2013] [notice] Child 7912: Released the start mutex
+[Sun Mar 03 15:55:44 2013] [notice] Child 4940: Acquired the start mutex.
+[Sun Mar 03 15:55:44 2013] [notice] Child 4940: Starting 64 worker threads.
+[Sun Mar 03 15:55:44 2013] [notice] Child 4940: Starting thread to listen on port 80.
+[Sun Mar 03 15:55:56 2013] [notice] Child 7912: All worker threads have exited.
+[Sun Mar 03 15:55:56 2013] [notice] Child 7912: Child process is exiting
