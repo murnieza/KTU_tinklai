@@ -19,3 +19,15 @@
 [Sun Mar 03 15:55:44 2013] [notice] Child 4940: Starting thread to listen on port 80.
 [Sun Mar 03 15:55:56 2013] [notice] Child 7912: All worker threads have exited.
 [Sun Mar 03 15:55:56 2013] [notice] Child 7912: Child process is exiting
+[Sun Mar 03 16:14:49 2013] [notice] Parent: Received restart signal -- Restarting the server.
+[Sun Mar 03 16:14:49 2013] [notice] Child 4940: Exit event signaled. Child process is ending.
+[Sun Mar 03 16:14:49 2013] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Mar 03 16:14:49 2013] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Mar 03 16:14:49 2013] [notice] Parent: Created child process 7444
+[Sun Mar 03 16:14:49 2013] [notice] Child 7444: Child process is running
+[Sun Mar 03 16:14:50 2013] [notice] Child 7444: Acquired the start mutex.
+[Sun Mar 03 16:14:50 2013] [notice] Child 4940: Released the start mutex
+[Sun Mar 03 16:14:50 2013] [notice] Child 7444: Starting 64 worker threads.
+[Sun Mar 03 16:14:50 2013] [notice] Child 7444: Starting thread to listen on port 80.
+[Sun Mar 03 16:14:51 2013] [notice] Child 4940: All worker threads have exited.
+[Sun Mar 03 16:14:51 2013] [notice] Child 4940: Child process is exiting
